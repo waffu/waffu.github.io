@@ -36,6 +36,8 @@ th, td { padding: 0.5em 1em; box-shadow: 0 0 0 1px rgba(144, 145, 148, 0.12); }
 
 tr:hover, tr:nth-child(odd) td { background: rgba(144, 145, 148, 0.04); }
 
+#forestnav { height: 2em; position: relative; margin: 0px; float: left; display: inline; }
+
 pre { background: rgba(144, 145, 148, 0.12); border-radius: 2px; font-size: 0.8em; margin: 1.5em 0; padding: 0.8em 1.2em; overflow-x: auto; }
 
 :not(pre) > code { font-size: 0.9em; background: rgba(144, 145, 148, 0.15); opacity: 0.7; border-radius: 2px; margin: 0 0.1em; padding: 0.2em 0.4em; }
@@ -55,6 +57,10 @@ article header h1 { font-size: 1.7em; margin: 0 0 0.1em; }
 nav { margin: 0.5em -1.2em; }
 
 nav a { margin: 0.5em 1.2em; }
+
+#forestnav { height: 2em; float: right; margin-left: 1em; top: 4px; }
+
+#navbar { position: relative; box-sizing: border-box; z-index: auto; display: flex; }
 
 .title { font-size: 1.25em; }
 
