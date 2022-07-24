@@ -31,6 +31,6 @@ comments:
 plugins:
  - jekyll-feed
 
- domain: waffu.github.io
- url: https://waffu.github.io
- baseurl: /_site/
+domain: waffu.github.io
+url: https://waffu.github.io
+baseurl: /_site/
