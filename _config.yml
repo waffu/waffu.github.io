@@ -33,4 +33,4 @@ plugins:
 
 domain: waffu.github.io
 url: https://waffu.github.io
-baseurl: /_site/
+baseurl: /
