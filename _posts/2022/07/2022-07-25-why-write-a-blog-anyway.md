@@ -38,7 +38,3 @@ By presenting the information in your blog posts in your personal style, it can 
 Humans are social animals, that means you directly benefit from an online presence especially in the world of tech. Having a blog increases said presence as it's another vector of developing a reputation or way of even finding out that you exist in the first place. This will give you opportunities. Whether it's a potential employer using your blog as proof of knowledge, or a potential connection due to them finding your blog as an answer to a problem they may have, every person that finds their way to you through your increased presence, presents opportunity.
 
 Knowing all this, make sure to associate your blog with your personal brand everywhere you can, your resume, your GitHub, etc. Your blog is an extension of you. Make the content relatable, easily consumable and correct and this will reflect on you. There is a whole industry based on how people perceive companies. While a single person isn't to the scale of a company, it's easy to see how perception matters in the current day and how you can use your blog as just another tool to affect it.
-
----
-
-Happy blogging.
