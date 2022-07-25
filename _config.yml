@@ -1,6 +1,6 @@
 title: "lincj"
 author: "James"
-description: "A place I use to solidify programming concepts, or just to write about anything :)"
+description: "A place I use to solidify programming concepts or write about topics that interest me."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -30,8 +30,8 @@ comments:
 plugins:
  - jekyll-feed
 
-domain: waffu.github.io
-url: https://waffu.github.io
+domain: lincj.com
+url: https://lincj.com
 baseurl: /
 
 permalink: /:categories/:year/:month/:day/:title
