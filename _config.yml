@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true       # show article excerpts on the home page
-show_frame: true         # adds a gray frame to the site
+show_frame: false         # adds a gray frame to the site
 show_sidebar: false       # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
@@ -19,9 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "archive.html"}
   - {file: "about.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/waffu"}
+#external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
@@ -34,3 +33,5 @@ plugins:
 domain: waffu.github.io
 url: https://waffu.github.io
 baseurl: /
+
+permalink: /:categories/:year/:month/:day/:title
