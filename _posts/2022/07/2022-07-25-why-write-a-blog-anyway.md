@@ -27,7 +27,7 @@ Writing an explanation in your blog post is taking the teacher role for a resour
 
 # A collection of past notes
 
-The most prevalent reason for me personally is to keep a robust collection of notes, due to the frequency I find of me going back to old links/resources to get the same information time and time again. Why shouldn't you just keep using the same resources then? The problem is format and wording. Everyone has their own has different way to mental model information presented to them. Format and wording can heavily impact how easy it is to compile your mental model, which ultimately makes processing the information that much harder.
+The most prevalent reason for me personally is to keep a robust collection of notes, due to the frequency I find of me going back to old links/resources to get the same information time and time again. Why shouldn't you just keep using the same resources then? The problem is format and wording. Everyone has their own different way to mental model information presented to them. Format and wording can heavily impact how easy it is to compile your mental model, which ultimately makes processing the information that much harder.
 
 > your blog post could also be the resource that makes it *"click"* for someone else
 
